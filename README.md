@@ -10,6 +10,11 @@ The fifth edition of the persistent browser-based game “Shintolin”.
 - [Core module](https://gitlab.com/quintolin/core)
 - [Storage module](https://gitlab.com/quintolin/storage)
 
+## Internal repositories
+
+- [Metadata for GitHub organisation](https://gitlab.com/quintolin/.github)
+- [Metadata for GitLab organisation](https://gitlab.com/quintolin/gitlab-profile)
+
 ## Mirrors
 
 All the repositories are stored on multiple code-sharing portals:
