@@ -4,11 +4,11 @@ The fifth edition of the persistent browser-based game “Shintolin”.
 
 ## Repositories
 
-- [Legacy versions](https://github.com/quintolin/legacy)
-- [Documentation](https://github.com/quintolin/documentation)
-- [Website](https://github.com/quintolin/website)
-- [Core module](https://github.com/quintolin/core)
-- [Storage module](https://github.com/quintolin/storage)
+- [Legacy versions](https://gitlab.com/quintolin/legacy)
+- [Documentation](https://gitlab.com/quintolin/documentation)
+- [Website](https://gitlab.com/quintolin/website)
+- [Core module](https://gitlab.com/quintolin/core)
+- [Storage module](https://gitlab.com/quintolin/storage)
 
 ## Mirrors
 
